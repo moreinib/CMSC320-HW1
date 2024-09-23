@@ -1,0 +1,2 @@
+Q1: WHy might be consider using git?
+Answer: We use git because it streamlines collaboration, version control, and project management. It allows multiple contributors to work on a project at the same time, tracks changes efficiently, and ensures code integrity. Plus, it serves as a repository for old projects, making it easy to access and build upon previous work. With its integration into other development tools and support for open-source contribution.
